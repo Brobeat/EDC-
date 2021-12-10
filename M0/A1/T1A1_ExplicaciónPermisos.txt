@@ -1,0 +1,3 @@
+1 El (usuario)propietario: tiene el permiso total de crear y de eliminar carpetas simpre sobre su carpeta
+2 (Usuario) Grupos:son aquellos que forman parte de un equipo de trabajo creando varios usuarios diferentes permisos
+3 resto del usuario: significa que no pertenese a ninguno y son agenos a los permisos, por lo tanto no tendran libre acceso
